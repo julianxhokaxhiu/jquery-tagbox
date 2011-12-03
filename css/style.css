@@ -1,0 +1,9 @@
+/* CSS Document */
+:focus {outline:none}
+body{font-family:Arial}
+label{position:absolute;bottom:0}
+form{width:100%;overflow:hidden}
+input{float:right}
+label.copyright{position:absolute;bottom:0;right:0;font-weight:bold}
+#textedit{height:200px;font-size:1.2em;border:1px solid #CCC}
+.tag{background-color:#C3D9FF}
